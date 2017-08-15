@@ -11,7 +11,7 @@ export class AppComponent {
 
 
   newvariable;
-  outputValue: string; 
+  outputValue: number; 
 
   dataCollection = ['coffe', 'cheese', 'bread', 'peanut butter', 'jam', 'tea', 'mayonnaise'];
 
