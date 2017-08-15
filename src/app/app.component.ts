@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   inputValue;
-  title = 'Simple Application';
+  title = 'advanced application';
 
 
   newvariable;
